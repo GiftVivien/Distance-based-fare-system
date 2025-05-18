@@ -14,7 +14,7 @@ This project analyzes public sentiment and keyword patterns related to the dista
 
 ## Project Structure
 
- Distance-Based fare system/
+📁 Distance-Based fare system/
 ├── data_cleaning.py
 ├── sentiment.py
 ├──sentiment_distribution.py

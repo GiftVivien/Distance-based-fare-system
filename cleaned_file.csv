@@ -1,0 +1,17 @@
+date,platform,sources/url,comment,sentiment,sentiment_score,sentiment_label,keywords,plot_sentiment
+2025-03-21,X/Twitter,https://x.com/JeanBaptisteMF1/status/1903112845249646676,Expensive devices,negative,-0.5719,negative,pricing,Negative
+2024-12-04,The NewTimes,https://www.newtimes.co.rw/article/22352/news/infrastructure/commuters-all-smiles-as-kigali-launches-distance-based-fare-system,Pay for the ditance covered,positive,0.5574,positive,none,Positive
+2024-12-04,The NewTimes,https://www.newtimes.co.rw/article/22352/news/infrastructure/commuters-all-smiles-as-kigali-launches-distance-based-fare-system,Easy to use and transparent,positive,0.5574,positive,utilization,Positive
+2024-12-04,The NewTimes,https://www.newtimes.co.rw/article/22352/news/infrastructure/commuters-all-smiles-as-kigali-launches-distance-based-fare-system,Refund balance solved,positive,0.5574,positive,pricing,Positive
+2024-12-04,The NewTimes,https://www.newtimes.co.rw/article/22352/news/infrastructure/commuters-all-smiles-as-kigali-launches-distance-based-fare-system,Few card possessions,neutral,0.0,neutral,none,Neutral
+2021-08-31,RwandaTV,https://www.youtube.com/watch?v=6sclBGin_y8&ab_channel=RwandaTV,Some finds the price unfair,neutral,0.0,neutral,"fairness, pricing",Neutral
+2021-08-31,RwandaTV,https://www.youtube.com/watch?v=6sclBGin_y8&ab_channel=RwandaTV,Network issues,negative,-0.5719,negative,complaint,Negative
+2021-08-31,RwandaTV,https://www.youtube.com/watch?v=6sclBGin_y8&ab_channel=RwandaTV,Reistance to change by some passengers,negative,-0.5719,negative,none,Negative
+2022-01-13,TV1 Rwanda,https://www.youtube.com/watch?v=dbNOSnaO0yE&ab_channel=TV1Rwanda,System Failure,negative,-0.5719,negative,complaint,Negative
+2022-01-13,TV1 Rwanda,https://www.youtube.com/watch?v=dbNOSnaO0yE&ab_channel=TV1Rwanda,System malfunctions led to fines,negative,-0.5719,negative,complaint,Negative
+2022-08-20,RwandaTV,https://www.youtube.com/watch?v=b5CLrAT1rPo&ab_channel=RwandaTV,Differences in prices and fuel prices,negative,-0.5719,negative,none,Negative
+2022-08-20,RwandaTV,https://www.youtube.com/watch?v=b5CLrAT1rPo&ab_channel=RwandaTV,No bargaining,positive,0.5574,positive,none,Positive
+2022-08-20,RwandaTV,https://www.youtube.com/watch?v=b5CLrAT1rPo&ab_channel=RwandaTV,Best fare pricing,positive,0.5574,positive,"pricing, support",Positive
+2019-02-05,IGIHE,https://igihe.com/amakuru/u-rwanda/article/rura-yatangiye-umukwabu-wo-gufata-abashoferi-badashyira-mubazi-muri-taxi,Confusion,negative,-0.5719,negative,none,Negative
+2022-01-13,X/Twitter,https://x.com/DerickCastor/status/1481544764986208261,System malfunctions,negative,-0.5719,negative,complaint,Negative
+2025-05-06,X/Twitter,https://x.com/VWRwanda/status/1919639042502647853,Game changer,positive,0.5574,positive,none,Positive
