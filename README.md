@@ -13,17 +13,18 @@ This project analyzes public sentiment and keyword patterns related to the dista
 - Insight extraction
 
 ## Project Structure
+**files used for writing codes**
 
-📁 Distance-Based fare system/
-├── data_cleaning.py
-├── sentiment.py
-├──sentiment_distribution.py
-|--sentiment_model.py
-├── MLsentimentPrediction.py
-├── keyword_detection.py
-📄 sentimentNotebook.ipynb
-📄 requirements.txt
-📄 README.md
+Distance-Based fare system/
+-data_cleaning.py
+- sentiment.py
+- sentiment_distribution.py
+-sentiment_model.py
+- MLsentimentPrediction.py
+- keyword_detection.py
+-sentimentNotebook.ipynb
+-visuals
+-README.md
 
 ## Insights
 
